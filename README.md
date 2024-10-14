@@ -2,7 +2,7 @@
 ### Project Course: Scripting and Programming Applications
 
 This program is designed to retrieve historical weather data from the previous 5 years of Fort Worth, TX on the date of October 18th.
-
+<br>
 
 The following inputs are required to run this program:
 * latitude and longitute of Fort Worth, TX
@@ -19,7 +19,7 @@ The following commands are inclued:
 * conn.commit(): to commit changes within the sqlite database
 * conn.close(): to close the connection to sqlite database
 * test_function(): a test function must start with test_ to intialize a unit test
-
+<br>
 
 The following outputs will result from this code: <br>
 
