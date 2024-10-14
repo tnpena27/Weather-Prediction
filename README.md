@@ -1,6 +1,5 @@
 # Weather-Prediction
 ### Project Course: Scripting and Programming Applications
-
 This program is designed to retrieve historical weather data from the previous 5 years of Fort Worth, TX on the date of October 18th.
 <br>
 
@@ -8,6 +7,7 @@ This program is designed to retrieve historical weather data from the previous 5
 * latitude and longitute of Fort Worth, TX
 * the month, in number form, and day of a date (October 18th = 10/18)
 * previous 5 years from date (2019, 2020, 2021, 2022, 2023) 
+<br>
 
 #### The following commands are inclued:
 * mean(): to find the average temperature, windspeeds, and precipations from the past 5 years on October 18th.
@@ -22,7 +22,6 @@ This program is designed to retrieve historical weather data from the previous 5
 <br>
 
 #### The following outputs will result from this code:
-<br>
 **From main.py**
 * latitude
 * longitude
