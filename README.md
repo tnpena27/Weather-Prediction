@@ -1,5 +1,5 @@
 # Weather-Prediction
-## Project Course: Scripting and Programming Applications
+### Project Course: Scripting and Programming Applications
 This program is designed to retrieve historical weather data from the previous 5 years of Fort Worth, TX on the date of October 18th.
 <br>
 
