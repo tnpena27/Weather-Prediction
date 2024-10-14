@@ -20,9 +20,9 @@ This program is designed to retrieve historical weather data from the previous 5
 * conn.close(): to close the connection to sqlite database
 * test_function(): a test function must start with test_ to intialize a unit test
 <br>
-<br>
-#### The following outputs will result from this code: <br>
 
+#### The following outputs will result from this code:
+<br>
 **From main.py**
 * latitude
 * longitude
