@@ -3,6 +3,7 @@
 
 This program is designed to retrieve historical weather data from the previous 5 years of Fort Worth, TX on the date of October 18th.
 
+
 The following inputs are required to run this program:
 * latitude and longitute of Fort Worth, TX
 * the month, in number form, and day of a date (October 18th = 10/18)
@@ -19,7 +20,9 @@ The following commands are inclued:
 * conn.close(): to close the connection to sqlite database
 * test_function(): a test function must start with test_ to intialize a unit test
 
-The following outputs will result from this code:
+
+The following outputs will result from this code: <br>
+
 **From main.py**
 * latitude
 * longitude
