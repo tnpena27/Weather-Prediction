@@ -1,0 +1,25 @@
+# Lists the packages and modules required to run the program and includes the required versions of those packages and modules.
+
+Required packages and modules to run main.py
+
+  * import requests (Version: 2.32.3 or higher)
+
+  * from statistics import mean (Version: 3.12.4 or higher)
+
+Required packages and modules to run database.py
+
+  * import sqlite3 (Version: 3.40.1 or higher)
+
+  * import requests (Version: 2.32.3 or higher)
+
+  * from statistics import mean (Version: 3.12.4 or higher)
+
+Required packages and modules to run test.py
+
+  * import unittest (Version: 3.12.4 or higher)
+
+  * import sqlite3 (Version: 3.12.4 or higher)
+
+  * import os (Version: 3.12.4 or higher)
+
+  * from database import WeatherData, retrieve_weather
